@@ -4,7 +4,7 @@ This repository contains a neural network model for predicting income levels (ab
 
 ### Dataset
 ---
-The model was trained on the "income.csv" dataset, which contains 48,842 samples with seven features: age, fnlwgt, education_num, capital_gain, capital_loss, hours_per_week, and income_level. The dataset is available in this repository in the "data" folder.
+The model was trained on the "income.csv" dataset, which contains 48,842 samples with seven features: age, fnlwgt, education_num, capital_gain, capital_loss, hours_per_week, and income_level.
 
 ### Dependencies
 ---
